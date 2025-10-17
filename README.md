@@ -1,10 +1,12 @@
 # CRM Application – Palantir Foundry
 **Overview**
+
 Developed a Customer Relationship Management (CRM) application in Palantir Foundry that transforms fragmented datasets into unified, actionable business intelligence.
 The application integrates companies, contacts, and website datasets using ontology mapping, automated ETL pipelines, and interactive workshop interfaces to deliver real-time analytics and customer insights.
 Focused on data quality, automation, and customer-centric design, this project demonstrates how Foundry enables scalable, intelligent enterprise systems.
 
 **Key Features**
+
 **Ontology-Driven Data Modeling**: Mapped relationships between Companies, Contacts, and Websites for seamless data interlinking.
 
 **Automated Pipelines**: Built end-to-end ETL workflows using Pipeline Builder to clean, transform, and aggregate raw data.
@@ -17,7 +19,12 @@ Focused on data quality, automation, and customer-centric design, this project d
 
 **Scalable Architecture**: Configured modular, reusable data workflows to support future datasets and extensions.
 
+**Tools & Technologies**
+
+Palantir Foundry • Pipeline Builder • Ontology Mapping • Workshop Applications • Python (data logic) • SQL • Data Integration APIs • JSON Schema
+
 **Impact & Outcomes**
+
 Unified isolated CRM datasets into a single analytics-ready model.
 
 Reduced manual data reconciliation and enhanced operational visibility.
